@@ -2,7 +2,7 @@
  * @File Name          : AttendeeEventsService.cls
  * @Description        :
  * @Author             : A Singh
- * @Group              : utk
+ * @Group              : utk mu
  * @Last Modified By   : A Singh
  * @Last Modified On   : 6/9/2020, 9:01:38 PM
  * @Modification Log   :
