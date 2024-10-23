@@ -8,7 +8,7 @@ public class DeleteEventBatch implements Database.Batchable<sObject> {
     /*
      * 201
      * 
-     * Exe - 200
+     * Exe - 200dfdsfsa
      * Exe - 1
      */ 
     public void execute(Database.BatchableContext batchContext, List<Event__c> eventList ){
